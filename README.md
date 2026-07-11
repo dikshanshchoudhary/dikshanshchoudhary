@@ -1,8 +1,10 @@
-Computer Science student passionate about AI Systems, Cloud Infrastructure, DevOps, and Production-grade Software Engineering.
+<h1 align="center">
+Hi, I'm Dikshansh Choudhary 👋
+</h1>
 
-Building scalable AI applications using FastAPI, Docker, Kubernetes, AWS, and LLMs.
-
-Interested in Distributed Systems, MLOps, Backend Engineering, and AI Infrastructure.
+<h3 align="center">
+Software Engineer • AI Developer • DevOps Enthusiast • Backend Engineer
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F7FA&width=435&lines=AI+Engineer;DevOps+Enthusiast;Cloud+Learner;Cybersecurity+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
