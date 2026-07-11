@@ -11,7 +11,7 @@ Building AI applications, cloud solutions, and secure systems.
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flask,mongodb,postgres,mysql,firebase,supabase,tensorflow,pytorch,opencv,sklearn,aws,gcp,docker,kubernetes,linux,git,github,githubactions,nginx,vscode,postman,figma,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,mysql,firebase,supabase,tensorflow,pytorch,opencv,sklearn,aws,gcp,docker,kubernetes,linux,git,github,githubactions,nginx,vscode,bash&perline=9" />
 </p>
 
 <h3 align="center">🔒 Cybersecurity & Networking</h3>
