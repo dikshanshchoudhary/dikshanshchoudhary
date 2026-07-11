@@ -20,4 +20,7 @@ Building AI applications, cloud solutions, and secure systems.
   Kali Linux • Burp Suite • Wireshark • Cisco Packet Tracer • OWASP Top 10 • Nmap
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanshchoudhary)
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/dikshansh-choudhary-270781371/
+- Email: dikshanshchoudhary@gmail.com
