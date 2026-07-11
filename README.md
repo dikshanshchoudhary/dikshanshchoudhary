@@ -1,6 +1,12 @@
-## Hi there 👋
+# Hi 👋, I'm Dikshansh Choudhary
 
-<!--
+Computer Science Engineering Student
+
+AI • DevOps • Cloud • Cybersecurity • Networking
+
+Building AI applications, cloud solutions, and secure systems.
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FA3F1B&width=435&lines=AI+Engineer;DevOps+Enthusiast;Cloud+Learner;Cybersecurity+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 **dikshanshchoudhary/dikshanshchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
