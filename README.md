@@ -25,6 +25,22 @@ Building AI applications, cloud solutions, and secure systems.
   Kali Linux • Burp Suite • Wireshark • Cisco Packet Tracer • OWASP Top 10 • Nmap
 </p>
 
+💻 Computer Science Student passionate about building scalable software.
+
+🚀 Interested in AI, Backend Engineering, Cloud, DevOps, Production Systems,Cyber Security, Networking .
+
+🌱 **Currently Exploring**
+
+* Scalable Backend Systems
+* Kubernetes & Docker
+* DevOps Automation
+* Cloud Infrastructure (AWS & GCP)
+* Computer Networking
+* Cybersecurity Fundamentals
+* Production-Ready AI Applications
+
+🎯 Goal:
+Become the real version of my self.
 
 ## Featured Projects
 
