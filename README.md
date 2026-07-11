@@ -25,65 +25,6 @@ Building AI applications, cloud solutions, and secure systems.
   Kali Linux • Burp Suite • Wireshark • Cisco Packet Tracer • OWASP Top 10 • Nmap
 </p>
 
-Tech Stack Organization
-
-Instead of a single row of icons, we'll group them like this:
-
-💻 Languages
-Python
-C
-JavaScript
-SQL
-Bash
-⚙️ Backend Development
-FastAPI
-Flask
-REST APIs
-JWT Authentication
-🤖 AI & Machine Learning
-Scikit-learn
-TensorFlow
-PyTorch
-LangChain
-RAG
-Pandas
-NumPy
-🗄️ Databases
-MongoDB
-PostgreSQL
-MySQL
-Qdrant
-🐳 DevOps
-Docker
-Docker Compose
-Kubernetes
-GitHub Actions
-Linux
-NGINX
-☁️ Cloud
-AWS
-Google Cloud
-Render
-Vercel
-🌐 Computer Networking
-Cisco Packet Tracer
-TCP/IP
-Routing & Switching
-VLANs
-DHCP
-DNS
-OSI Model
-🔐 Cybersecurity
-Kali Linux
-Burp Suite
-Wireshark
-Nmap
-OWASP Top 10
-🛠️ Tools
-Git
-GitHub
-VS Code
-Postman
 
 ## Featured Projects
 
