@@ -24,3 +24,17 @@ Building AI applications, cloud solutions, and secure systems.
 
 - LinkedIn: https://www.linkedin.com/in/dikshansh-choudhary-270781371/
 - Email: dikshanshchoudhary@gmail.com
+
+## Featured Projects
+
+### Nyaya AI
+AI-powered legal assistant using RAG, FastAPI, Docker, and PostgreSQL.
+
+### SHL Assessment Recommendation System
+Semantic search and LLM-based recommendation engine.
+
+### Sales Conversion Rate Optimization
+Machine learning project using Logistic Regression.
+
+### TrendPredict Pro
+AI-powered trend forecasting platform.
